@@ -1,0 +1,17 @@
+{
+  "title": "Temple",
+  "description": "Test",
+  "artist": "Yoshioka Kimitake",
+  "author": "Yoshioka Kimitake",
+  "cover": "https://pbs.twimg.com/media/FYabRyDUsAIS033.jpg",
+  "chapters": {
+    "66": {
+      "title": "A Little Meeting",
+      "volume": "8",
+      "groups": {
+        "Reggirt": "/proxy/api/imgur/chapter/CNi6QBS/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
