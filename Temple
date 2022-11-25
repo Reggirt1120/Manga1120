@@ -1,6 +1,6 @@
 {    
     "title": "Temple",
-    "description": "The man named Akemitsu Akagami who wish to control himself and his worldly deaires but failed because of girl named Yuzuki Aoba so he don't choice but go to temple and suprised by same girl. (I doing these this manga for fun, NOT FOR MONEY!?)",
+    "description": "The man named Akemitsu Akagami who wish to control himself and his worldly deaires but failed because of girl named Yuzuki Aoba so he don't have choice but go to temple for training but suprised by same girl.               (I doing these this manga for fun, NOT FOR MONEY!?)",
     "author": "Yoshokia Kimitake",
     "artist": "Yoshokia Kimitake",
     "cover": "https://i.imgur.com/Iw2IoGx.jpg",
@@ -11,7 +11,7 @@
             },
             "last_updated": 1669334786,
             "title": "A Little Meeting",
-            "volume": "8"
+            "volume": ""
         },
         "67": {
             "groups": {
@@ -19,7 +19,23 @@
             },
             "last_updated": 1669334786,
             "title": "Family Chocolate",
-            "volume": "8"           
-        }
+            "volume": ""           
+        },
+        "68": {
+            "groups": {
+                "Reggirt": "/proxy/api/imgur/chapter/9RLtY23"
+            },
+            "last_updated": 1669334786,
+            "title": "Friend Chocolate",
+            "volume": ""           
+        },
+        "68.5": {
+            "groups": {
+                "Reggirt": "/proxy/api/imgur/chapter/vyEkYSL"
+            },
+            "last_updated": 1669334786,
+            "title": "Choco",
+            "volume": ""           
+        },
     }
 }
