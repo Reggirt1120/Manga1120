@@ -5,11 +5,19 @@
     "artist": "Yoshokia Kimitake",
     "cover": "https://i.imgur.com/Iw2IoGx.jpg",
     "chapters": {
+        "65": {
+            "groups": {
+                "Reggirt": "/proxy/api/imgur/chapter/w0Ziaer"
+            },
+            "last_updated": 1670292919,
+            "title": "Erotic Weather",
+            "volume": "8"
+        },
         "66": {
             "groups": {
                 "Reggirt": "/proxy/api/imgur/chapter/CNi6QBS"
             },
-            "last_updated": 1669334786,
+            "last_updated": 1670292919,
             "title": "A Little Meeting",
             "volume": "8"
         },
@@ -41,8 +49,15 @@
             "groups": {
                 "Reggirt": "/proxy/api/imgur/chapter/JjN6fFV"
             },
-            "last_updated": 1669853400,
+            "last_updated": 1670292919,
             "title": "Obligation Chocolate",
+            "volume": "8"
+         "70": {
+            "groups": {
+                "Reggirt": "/proxy/api/imgur/chapter/9G3QqrI"
+            },
+            "last_updated": 1670292919,
+            "title": "Refining",
             "volume": "8"
         }
     }
