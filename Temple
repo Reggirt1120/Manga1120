@@ -68,6 +68,22 @@
             "last_updated": 1670274050,
             "title": "Disciplinary Committee",
             "volume": ""
-        } 
+        }
+         "71": {
+            "groups": {
+                "Reggirt": "/proxy/api/imgur/chapter/bSCMflM"
+            },
+            "last_updated": 1671906057,
+            "title": "Conching",
+            "volume": ""
+        },
+         "72": {
+            "groups": {
+                "Reggirt": "/proxy/api/imgur/chapter/jGzUAKq"
+            },
+            "last_updated": 1671906057,
+            "title": "Tempering",
+            "volume": ""
+        }
     }
 }
